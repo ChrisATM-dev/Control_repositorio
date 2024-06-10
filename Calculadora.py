@@ -5,10 +5,12 @@ def resta(n1,n2):
     return 0
 
 def multiplicacion(n1,n2):
-    return 0
+    a = n1 * n2
+    return a
 
 def division(n1,n2):
-    return 0
+    a = n1 / n2
+    return a
 
 n1 = int(input("Numero 1: "))
 n2 = int(input("Numero 2: "))
